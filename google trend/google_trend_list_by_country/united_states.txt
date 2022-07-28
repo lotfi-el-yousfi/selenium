@@ -1,0 +1,1 @@
+['Kim Potter', 'Joan Didion', 'Festivus', 'Bette Midler', 'COVID-19 omicron variant symptoms', 'Escape from Tarkov', 'Meghan Markle', 'Dalvin Cook', 'John Wick 4', 'Matrix', 'Student loans', 'Lakers', 'Sing 2', 'Celtics', 'Lily Collins', 'Robbie Roper', 'Madison Cawthorn', 'Fossilized dinosaur eggs', 'Listeria', 'Kate Bishop']
